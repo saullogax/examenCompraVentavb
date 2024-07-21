@@ -1,0 +1,18 @@
+c:\users\ad10\documents\visual studio 2010\Projects\Examen1SaúlGuillemo1660249\bin\Debug\Examen1SaúlGuillemo1660249.exe
+c:\users\ad10\documents\visual studio 2010\Projects\Examen1SaúlGuillemo1660249\bin\Debug\Examen1SaúlGuillemo1660249.pdb
+c:\users\ad10\documents\visual studio 2010\Projects\Examen1SaúlGuillemo1660249\bin\Debug\Examen1SaúlGuillemo1660249.xml
+c:\users\ad10\documents\visual studio 2010\Projects\Examen1SaúlGuillemo1660249\obj\x86\Debug\Examen1SaúlGuillemo1660249.Form1.resources
+c:\users\ad10\documents\visual studio 2010\Projects\Examen1SaúlGuillemo1660249\obj\x86\Debug\Examen1SaúlGuillemo1660249.Resources.resources
+c:\users\ad10\documents\visual studio 2010\Projects\Examen1SaúlGuillemo1660249\obj\x86\Debug\Examen1SaúlGuillemo1660249.vbproj.GenerateResource.Cache
+c:\users\ad10\documents\visual studio 2010\Projects\Examen1SaúlGuillemo1660249\obj\x86\Debug\Examen1SaúlGuillemo1660249.exe
+c:\users\ad10\documents\visual studio 2010\Projects\Examen1SaúlGuillemo1660249\obj\x86\Debug\Examen1SaúlGuillemo1660249.xml
+c:\users\ad10\documents\visual studio 2010\Projects\Examen1SaúlGuillemo1660249\obj\x86\Debug\Examen1SaúlGuillemo1660249.pdb
+D:\Ccomputadora HP\UADEO\Memoria blanca con rojo\Examen1SaúlGuillemo1660249\Examen1SaúlGuillemo1660249\obj\x86\Debug\Examen1SaúlGuillemo1660249.exe
+D:\Ccomputadora HP\UADEO\Memoria blanca con rojo\Examen1SaúlGuillemo1660249\Examen1SaúlGuillemo1660249\obj\x86\Debug\Examen1SaúlGuillemo1660249.xml
+D:\Ccomputadora HP\UADEO\Memoria blanca con rojo\Examen1SaúlGuillemo1660249\Examen1SaúlGuillemo1660249\obj\x86\Debug\Examen1SaúlGuillemo1660249.pdb
+D:\Ccomputadora HP\UADEO\Memoria blanca con rojo\Examen1SaúlGuillemo1660249\Examen1SaúlGuillemo1660249\bin\Debug\Examen1SaúlGuillemo1660249.exe
+D:\Ccomputadora HP\UADEO\Memoria blanca con rojo\Examen1SaúlGuillemo1660249\Examen1SaúlGuillemo1660249\bin\Debug\Examen1SaúlGuillemo1660249.pdb
+D:\Ccomputadora HP\UADEO\Memoria blanca con rojo\Examen1SaúlGuillemo1660249\Examen1SaúlGuillemo1660249\bin\Debug\Examen1SaúlGuillemo1660249.xml
+D:\Ccomputadora HP\UADEO\Memoria blanca con rojo\Examen1SaúlGuillemo1660249\Examen1SaúlGuillemo1660249\obj\x86\Debug\Examen1SaúlGuillemo1660249.Form1.resources
+D:\Ccomputadora HP\UADEO\Memoria blanca con rojo\Examen1SaúlGuillemo1660249\Examen1SaúlGuillemo1660249\obj\x86\Debug\Examen1SaúlGuillemo1660249.Resources.resources
+D:\Ccomputadora HP\UADEO\Memoria blanca con rojo\Examen1SaúlGuillemo1660249\Examen1SaúlGuillemo1660249\obj\x86\Debug\Examen1SaúlGuillemo1660249.vbproj.GenerateResource.Cache
